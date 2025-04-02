@@ -38,7 +38,7 @@ public class Question {
 		if (answer.equals(givenAnswer)) {
 			return this.points;
 		} else {
-			return 0;
+			return 0; 
 		}
 	}
 
